@@ -1,15 +1,3 @@
-# Telegram Group / Channel Manager Bot
+# Pyrogram Control + Userbot Framework
 
-Features:
-- Admin dashboard (inline)
-- Join request approval
-- Broadcast with buttons
-- Media to link
-- Force subscribe
-- Logs
-- MongoDB
-- Plugin-based
-
-Run:
-pip install -r requirements.txt
-python bot/main.py
+Includes admin panel & plugin-ready userbot.

@@ -1,0 +1,7 @@
+class Config:
+    API_ID = 123456
+    API_HASH = "API_HASH"
+    USER_SESSION = "USER_SESSION_STRING"
+    BOT_TOKEN = "BOT_TOKEN"
+    OWNER_ID = 123456789
+    COMMAND_PREFIXES = [".", "/"]
